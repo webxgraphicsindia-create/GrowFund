@@ -2,8 +2,6 @@
 
 Category: Digital Chit Fund / ROI Tracking
 
-Date: 27/05/2025
-
 Client: Local Retreat
 
 🛑 Problem
@@ -45,3 +43,13 @@ Auto-scheduled returns & reminders
 Push notifications for payments
 
 Animated, modern UI
+
+📜 License
+
+This project is licensed under the MIT License.
+
+📧 Contact
+
+👤 Developed by WebX Graphics India
+
+GitHub: webxgraphicsindia Email: webxgraphicsindia@gmail.com
